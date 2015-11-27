@@ -12,7 +12,8 @@ by Andreas Mueller.
 **Location: 331**
 
 
-Materials will be posted soon.
+Slides can be found at:
+
 
 Please bring a laptop with a working installation of Python (2.7, 3.4 or 3.5).
 The following packages are required:
@@ -26,5 +27,18 @@ The following packages are required:
 The easiest way to install all requirements is to install the free Anaconda Python distribution:
 https://www.continuum.io/downloads (OS X, Windows, Linux)
 
-Please download the material prior to arriving to the tutorial, and make sure you can run the notebooks.
-To run a notebook, start Jupyter Notebook and browse to the folder to which you downloaded it.
+Please download the material prior to arriving to the tutorial, and make sure
+you can run the notebooks.  To run a notebook, start Jupyter Notebook and
+browse to the folder to which you downloaded it.
+
+Outline
+-------
+Part 01 - Introduction to Scikit-learn
+Part 02 - Unsupervised Transformers
+Part 03 - Cross-validation
+Part 04 - Grid Searches for Hyper Parameters
+Part 05 - Preprocessing and Pipelines
+Part 06 - Working With Text Data
+Part 07 - Feature Union
+Part 08 - Out Of Core Learning
+Part 09 - Out Of Core Learning for Text
