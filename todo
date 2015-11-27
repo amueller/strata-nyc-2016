@@ -1,5 +1,11 @@
 add exercises / merge with "workshop"
+exercise for pipelined grid-search?!
 fix out of core stuff?
 make sure everything runs on python3 and python2
 add interactive stuff on svms and trees?
 add linear model penalty stuff?
+
+subsample for text classification?
+add n-grams to text slides
+
+make sure all solutions work!!
