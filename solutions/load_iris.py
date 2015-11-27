@@ -12,6 +12,6 @@ print("Dataset size: %d  number of features: %d  number of classes: %d"
 
 X_train, X_test, y_train, y_test = train_test_split(X, y)
 
-plt.scatters(X_train[:, 0], X_train[:, 1], c=y_train)
+plt.scatter(X_train[:, 0], X_train[:, 1], c=y_train)
 plt.figure()
 plt.scatter(X_train[:, 2], X_train[:, 3], c=y_train)
