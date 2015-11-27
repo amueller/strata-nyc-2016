@@ -1,4 +1,3 @@
-# %load solutions/text_pipeline.py
 from sklearn.pipeline import make_pipeline
 from sklearn.grid_search import GridSearchCV
 
@@ -19,7 +18,7 @@ print("best parameters : %s" % grid_search.best_params_)
 print("Grid-searched test score: %f"
       % grid_search.score(text_test, y_test))
 
-est = grid_serach.best_estimator_
+est = grid_search.best_estimator_
 visualize_coefficients(est.named_steps['linearsvc'],
                        est.named_steps['countvectorizer'].get_feature_names())
 
@@ -31,6 +30,6 @@ grid_search.fit(text_train, y_train)
 print("best parameters with n-gram search: %s" % grid_search.best_params_)
 print("test set score with n-gram search: %s" % grid_search.score(text_test, y_test))
 
-est = grid_serach.best_estimator_
+est = grid_search.best_estimator_
 visualize_coefficients(est.named_steps['linearsvc'],
                        est.named_steps['countvectorizer'].get_feature_names())
