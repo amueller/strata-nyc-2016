@@ -11,8 +11,8 @@ by Andreas Mueller.
 
 **Location: 331**
 
-
-Slides can be found at:
+It is recommended that you update the materials before the course, as they
+might change in the days leading up to the conference.
 
 
 Please bring a laptop with a working installation of Python (2.7, 3.4 or 3.5).
