@@ -33,12 +33,12 @@ browse to the folder to which you downloaded it.
 
 Outline
 -------
-Part 01 - Introduction to Scikit-learn
-Part 02 - Unsupervised Transformers
-Part 03 - Cross-validation
-Part 04 - Grid Searches for Hyper Parameters
-Part 05 - Preprocessing and Pipelines
-Part 06 - Working With Text Data
-Part 07 - Feature Union
-Part 08 - Out Of Core Learning
-Part 09 - Out Of Core Learning for Text
+- Part 01 - Introduction to Scikit-learn
+- Part 02 - Unsupervised Transformers
+- Part 03 - Cross-validation
+- Part 04 - Grid Searches for Hyper Parameters
+- Part 05 - Preprocessing and Pipelines
+- Part 06 - Working With Text Data
+- Part 07 - Feature Union
+- Part 08 - Out Of Core Learning
+- Part 09 - Out Of Core Learning for Text
