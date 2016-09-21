@@ -5,11 +5,11 @@ This repository will contain the material for the Strata tutorial
 
 by Andreas Mueller.
 
-**9:00am–12:30pm Tuesday, 12/01/2015**
+**9:00am–12:30pm Tuesday, 09/27/2016**
 
 **Data Science and Advanced Analytics**
 
-**Location: 331**
+**Location: 3D 12**
 
 It is recommended that you update the materials before the course, as they
 might change in the days leading up to the conference.
@@ -18,7 +18,7 @@ might change in the days leading up to the conference.
 Please bring a laptop with a working installation of Python (2.7, 3.4 or 3.5).
 The following packages are required:
 
-- scikit-learn >= 0.16
+- scikit-learn >= 0.17
 - matplotlib >= 1.3
 - numpy >= 1.5
 - IPython >= 4.0
